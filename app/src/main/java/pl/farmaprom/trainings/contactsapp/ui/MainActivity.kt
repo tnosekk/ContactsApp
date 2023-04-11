@@ -1,4 +1,4 @@
-package pl.farmaprom.trainings.contactsapp
+package pl.farmaprom.trainings.contactsapp.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
